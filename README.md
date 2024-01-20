@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Fullstack developer based in Tokyo, Japan</h3>
 <img align="right" alt="Coding" width="250" class="rounded" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG1jdWFhMjI3ajJsam9tMWVjNXdxbDFkZDkwN29odzRyM2NtZmJpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nmt0QymZ17cAfJgQvo/giphy.gif">
 
-- 🌱 Currently learning **at Le Wagon Bootcamp**
-
+- 🌱 Currently learning **at Le Wagon Bootcamp** and graduating in March, 2024!
+- 💻 Looking for Software Engineer opportunities to continue my professional growth 🧑‍💻
 - 📫 Reach me **osama.suleiman97@gmail.comm**
 
 <h3 align="left">Languages and Tools:</h3>
