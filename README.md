@@ -2,9 +2,8 @@
 <h3 align="center">A passionate Fullstack developer based in Tokyo, Japan</h3>
 <img align="right" alt="Coding" width="250" class="rounded" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG1jdWFhMjI3ajJsam9tMWVjNXdxbDFkZDkwN29odzRyM2NtZmJpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nmt0QymZ17cAfJgQvo/giphy.gif">
 
-- 🌱 Graduated from **Le Wagon** in March, 2024!
-- 🤓 Started Harvard`s CS50x in April to continue growing!
-- 💻 Open to Software Engineer opportunities 🧑‍💻
+- 🌱 A Bootcamp graduate following his passion for Tech and trying to transform the world!
+- 🤓 Started Harvard`s CS50x to continue growing!
 - 📫 Reach me **osama.suleiman97@gmail.com**
 - 🕵️‍♀️ Portfolio: **https://happyday101.github.io/**
 
