@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Fullstack developer based in Tokyo, Japan</h3>
 <img align="right" alt="Coding" width="250" class="rounded" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG1jdWFhMjI3ajJsam9tMWVjNXdxbDFkZDkwN29odzRyM2NtZmJpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nmt0QymZ17cAfJgQvo/giphy.gif">
 
-- 🌱 A Bootcamp graduate following his passion for Tech and trying to transform the world!
+- 🌱 A Le Wagon graduate following his passion for Tech and trying to transform the world!
 - 🤓 Started Harvard`s CS50x!
 - 📫 Reach me **osama.suleiman97@gmail.com**
 - 🕵️‍♀️ Portfolio: **https://happyday101.github.io/**
@@ -13,4 +13,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/osama-suleiman/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/osama-suleiman/" height="30" width="40" /></a>
+
 </p>
