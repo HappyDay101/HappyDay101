@@ -2,10 +2,8 @@
 <h3 align="center">A passionate Fullstack developer based in Tokyo, Japan</h3>
 <img align="right" alt="Coding" width="250" class="rounded" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG1jdWFhMjI3ajJsam9tMWVjNXdxbDFkZDkwN29odzRyM2NtZmJpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nmt0QymZ17cAfJgQvo/giphy.gif">
 
-- 🌱 Always excited in learning and trying new tech!
+- 🌱 Always excited in learning and trying new tech, Currently learning Python and improving my Frontend skills!
 - 🏗️ Started a startup with a couple of friends in creating a migrant help app/community, to be released in 2024
-- 🤓 Started Harvard`s CS50x and learning python 💪!
-- 📫 Reach me **osama.suleiman97@gmail.com**
 - 🕵️‍♀️ Portfolio: **https://happyday101.github.io/**
 
 <h3 align="left">Languages and Tools:</h3>
