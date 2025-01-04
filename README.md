@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="250" class="rounded" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG1jdWFhMjI3ajJsam9tMWVjNXdxbDFkZDkwN29odzRyM2NtZmJpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nmt0QymZ17cAfJgQvo/giphy.gif">
 
 - 🌱 Always excited in learning and trying new tech
-- 👾 Currently focusing on studying up Java and NodeJS 🤓
+- 👾 Currently testing which backend to focus on and dive deeper on: Java, Python or NodeJS 🤔
 - 🏗️ Currenty working for a exciting startup in Tokyo 🧱, focusing as a Frontend Engineer 🧑‍💻
 - 🕵️‍♀️ Portfolio: **https://happyday101.github.io/**
 
