@@ -13,10 +13,10 @@
 
 ### 🚀 What I’m Working On
 
-- Building **internal automation tools** with AWS Lambda, API Gateway, and GitHub Actions for corporate workflows
-- Developing **real-time geospatial dashboards** using Streamlit + FastAPI (deployed to Fly.io and GCP)
-- Implementing **Playwright-based E2E test suites** and CI pipelines on self-hosted runners
-- Supporting **image upload and i18n tooling** for admin dashboards at a SaaS startup
+- Building internal automation and integration tools using AWS, GitHub Actions, and Slack APIs
+- Developing real-time dashboards with Streamlit and FastAPI, deployed to Fly.io and GCP
+- Implementing end-to-end test suites with Playwright on self-hosted CI infrastructure
+- Supporting media uploads and i18n features in admin-facing SaaS dashboards
 
 ---
 
