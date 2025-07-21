@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Osama Suleiman</h1>
-<h3 align="center">A passionate Fullstack developer based in Tokyo, Japan</h3>
+<h3 align="center">Fullstack Developer based in Tokyo, Japan | Passionate about building thoughtful, scalable software</h3>
 <img align="right" alt="Coding" width="250" class="rounded" src="https://i.pinimg.com/originals/1f/1d/b2/1f1db2ae0cd6c73e59fdc7433f6d540c.gif">
 
-- 🌱 Always excited in learning and trying new tech
-- 🏗️ Currenty working for 2 exciting startup in Tokyo 🧱, as a Frontend Engineer and a Fullstack Engineer 🧑‍💻
-- 🕵️‍♀️ Portfolio: **https://happyday101.github.io/**
+- 🚀 Constantly exploring new technologies and building things that matter
+- 🏗️ Currently contributing to two innovative startups in Tokyo as a Frontend Engineer and Fullstack Developer
+- 🕵️‍♀️ Check out my portfolio: **[happyday101.github.io](https://happyday101.github.io/)**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack & Tools</h3>
   <p align="left">
-    <!-- Ruby on Rails -->
+    <!-- Python -->
     <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/></a>
-    <!-- Ruby on Rails -->
+    <!-- Streamlit -->
     <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original-wordmark.svg" alt="rails" width="40" height="40"/></a>
     <!-- Javascript -->
     <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
