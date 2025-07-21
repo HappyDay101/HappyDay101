@@ -50,13 +50,6 @@
 
 ---
 
-### 🔗 Projects & Portfolio
-
-- 💼 Portfolio: [happyday101.github.io](https://happyday101.github.io/)
-- 📦 GitHub Repos: [See pinned projects below](#)
-
----
-
 ### 🤝 Connect With Me
 
 <p>
