@@ -1,44 +1,66 @@
-<h1 align="center">Hi 👋, I'm Osama Suleiman</h1>
-<h3 align="center">Fullstack Developer based in Tokyo, Japan | Passionate about building thoughtful, scalable software</h3>
-<img align="right" alt="Coding" width="250" class="rounded" src="https://i.pinimg.com/originals/1f/1d/b2/1f1db2ae0cd6c73e59fdc7433f6d540c.gif">
+<h1 align="center">Hi, I'm Osama Suleiman 👋</h1>
+<h3 align="center">Fullstack Developer | Corporate Engineering | Based in Tokyo, Japan</h3>
 
-- 🚀 Constantly exploring new technologies and building things that matter
-- 🏗️ Currently contributing to two innovative startups in Tokyo as a Frontend Engineer and Fullstack Developer
-- 🕵️‍♀️ Check out my portfolio: **[happyday101.github.io](https://happyday101.github.io/)**
+<br/>
 
-<h3 align="left">Tech Stack & Tools</h3>
-  <p align="left">
-    <!-- Python -->
-    <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/></a>
-    <!-- Streamlit -->
-    <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original-wordmark.svg" alt="rails" width="40" height="40"/></a>
-    <!-- Javascript -->
-    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-    <!--  Typescript -->
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-    <!--  React -->
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-    <!--  HTML -->
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  </p>
-  <p>
-    <!--  Bootstrap -->
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-    <!--  MySQL -->
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-    <!--  PostgreSQL -->
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-    <!--  Figma -->
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-    <!--  git -->
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-    <!--  Heroku -->
-    <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
-    <!--  PlaywrightJS -->
-    <a href="https://playwright.dev/" target="_blank" rel="noreferrer"><img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/></a>
-  </p>
+<p align="center">
+  👨‍💻 Building developer tooling, automation scripts, and customer-facing apps across two fast-moving startups<br/>
+  🧱 Bridging internal platform engineering (CI/CD, Slack integrations, cloud automation) with fullstack product development (dashboards, APIs, backend services)<br/>
+  🌏 Passionate about solving real-world problems with thoughtful, scalable systems<br/>
+</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/osama-suleiman/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/osama-suleiman/" height="30" width="40" /></a>
+---
+
+### 🚀 What I’m Working On
+
+- Building **internal automation tools** with AWS Lambda, API Gateway, and GitHub Actions for corporate workflows
+- Developing **real-time geospatial dashboards** using Streamlit + FastAPI (deployed to Fly.io and GCP)
+- Implementing **Playwright-based E2E test suites** and CI pipelines on self-hosted runners
+- Supporting **image upload and i18n tooling** for admin dashboards at a SaaS startup
+
+---
+
+### 🛠️ Tech Stack
+
+#### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+#### Frameworks & Libraries
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+
+#### Infrastructure & DevOps
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Fly.io](https://img.shields.io/badge/-Fly.io-8C52FF?style=flat-square)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+#### Tools & Other
+![Poetry](https://img.shields.io/badge/-Poetry-4B5263?style=flat-square)
+![Slack API](https://img.shields.io/badge/-Slack%20Bot-4A154B?style=flat-square&logo=slack)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+### 🔗 Projects & Portfolio
+
+- 💼 Portfolio: [happyday101.github.io](https://happyday101.github.io/)
+- 📦 GitHub Repos: [See pinned projects below](#)
+
+---
+
+### 🤝 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/osama-suleiman/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
 </p>
